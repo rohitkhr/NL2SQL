@@ -1,0 +1,9 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+.env
+
+# Ignore data files (optional, if you don't want to share your database)
+data/*.db
